@@ -1,0 +1,530 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.5.9)  9 MAY 2019 22:10
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-12-01>
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/base/article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/base/size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/base/inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/babel/babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/babel/switch.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/arabi/bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/babel-spanish/spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/babel/babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/babel/txtbabel.def")
+\bbl@dirlevel=\count89
+)
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Spanish' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 51.
+
+\l@spanish = a dialect from \language0
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/amsmath/amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/amsmath/amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/amsmath/amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen104
+))
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/amsmath/amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/amsmath/amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks18
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks19
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/amsfonts/amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/amsfonts/amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/base/makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics/graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics/graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics/trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics-cfg/graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics-def/pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/geometry-de/geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/oberdiek/ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/oberdiek/ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/ifxetex/ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count103
+\Gm@cntv=\count104
+\c@Gm@tempcnt=\count105
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
+\Gm@dimlist=\toks23
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/geometry/geometry.cfg")) (main.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Introduccion.aux) (Contextualizacion.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/cont
+ext/base/supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen123
+\scratchbox=\box29
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen124
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks25
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/oberdiek/epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/oberdiek/infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/oberdiek/grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/oberdiek/kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/oberdiek/ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/oberdiek/kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/oberdiek/kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/oberdiek/etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/oberdiek/ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/oberdiek/pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 443.57848pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=624.25346pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<logoUD.png, id=1, 311.2428pt x 413.1435pt>
+File: logoUD.png Graphic file (type png)
+<use logoUD.png>
+Package pdftex.def Info: logoUD.png  used on input line 15.
+(pdftex.def)             Requested size: 113.81102pt x 151.07034pt.
+[1
+
+{/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/data/pdftex/confi
+g/pdftex.map} <./logoUD.png>] [2
+
+]
+\openout2 = `Introduccion.aux'.
+
+ (Introduccion.tex)
+Overfull \hbox (2.98347pt too wide) in paragraph at lines 2--44
+\OT1/cmr/m/n/12 vida, es as como se encuentran diversos casos acerca de ni~no
+s con problemas vestibulares,
+ []
+
+[3
+
+] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/amsfonts/umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+("/Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/amsfonts/umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [4
+
+])
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [5] (main.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+ [6]
+\openout2 = `Contextualizacion.aux'.
+
+ (Contextualizacion.tex
+Overfull \hbox (5.78908pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/12 sistemas dinamicos el cual permita realizar diagnosticos y en
+contrar posibles tratamientos
+ []
+
+[1
+
+]
+Overfull \hbox (15.58064pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/12 problemas vestibulares utilizando redes neuronales para el mode
+lado de sistemas dinamicos. 
+ []
+
+
+Overfull \hbox (17.70007pt too wide) in paragraph at lines 20--21
+[]\OT1/cmr/m/n/12 Elaborar un sistema de diagnostico para identificar los posi
+bles problemas vestibulares
+ []
+
+
+Overfull \hbox (6.14603pt too wide) in paragraph at lines 22--23
+[]\OT1/cmr/m/n/12 Elaborar comparativas entre los tratamientos generados y trat
+amientos establecidos
+ []
+
+[2]
+Overfull \hbox (17.20833pt too wide) in paragraph at lines 33--35
+ \OT1/cmr/bx/n/12 Teora de Integracion Sensorial:[] \OT1/cmr/m/n/12 La Dra. 
+Jean Ayres, (1972) fue una de las precursoras
+ []
+
+
+Overfull \hbox (18.02646pt too wide) in paragraph at lines 40--41
+[]\OT1/cmr/m/n/12 Los individuos conservan impulso interno para cumplir retos e
+n actividades sensoriales
+ []
+
+<Figura1.png, id=34, 1606.0pt x 992.70876pt>
+File: Figura1.png Graphic file (type png)
+<use Figura1.png>
+Package pdftex.def Info: Figura1.png  used on input line 46.
+(pdftex.def)             Requested size: 284.52756pt x 175.86243pt.
+
+Overfull \hbox (6.73352pt too wide) in paragraph at lines 42--55
+\OT1/cmr/m/n/12 El desarrollo de integracion sensorial se considera como un as
+pecto de caracter automatico
+ []
+
+
+Overfull \hbox (2.39598pt too wide) in paragraph at lines 42--55
+\OT1/cmr/m/n/12 con criterios de normalidad estadstica bajo los terminos des
+vo, significacion y promedio.
+ []
+
+
+Overfull \hbox (15.58427pt too wide) in paragraph at lines 42--55
+\OT1/cmr/m/n/12 en ni~nos peque~nos. Narbona y Schlumberger lo definieron como 
+\un diagnostico provisional,
+ []
+
+[3] [4 <./Figura1.png>]
+Overfull \hbox (2.26775pt too wide) in paragraph at lines 56--87
+\OT1/cmr/m/n/12 Control de las funciones manipulables del equipo. Manipulacion
+ de archivos y directorios.
+ []
+
+
+Overfull \hbox (8.27687pt too wide) in paragraph at lines 56--87
+\OT1/cmr/m/n/12 Herramientas de desarrollo de aplicaciones. Comunicacion con o
+tros sistemas. Informacion
+ []
+
+
+Overfull \hbox (7.22517pt too wide) in paragraph at lines 56--87
+\OT1/cmr/m/n/12 de unidades neuronales simples (neuronas artificiales) de forma
+ aproximadamente analoga
+ []
+
+
+Overfull \hbox (4.94048pt too wide) in paragraph at lines 56--87
+\OT1/cmr/m/n/12 informacion de entrada atraviesa la red neuronal (donde se som
+ete a diversas operaciones)
+ []
+
+[5] [6]
+Overfull \hbox (5.62512pt too wide) in paragraph at lines 93--94
+[]\OT1/cmr/m/n/12 Para realizar el analisis necesario, se utilizaran los sigu
+ientes metodos de investigacion: 
+ []
+
+[7]
+Overfull \hbox (14.14038pt too wide) in paragraph at lines 96--97
+[]\OT1/cmr/m/n/12 Metodo analtico para obtener variables y datos que logran 
+identificar la problematica
+ []
+
+
+Overfull \hbox (46.35727pt too wide) in paragraph at lines 103--103
+[]\OT1/cmr/bx/n/17.28 Sistema de Identificacion Digital Basado en Blockchain 
+ []
+
+
+Overfull \hbox (15.59743pt too wide) in paragraph at lines 131--131
+[]\OT1/cmr/bx/n/17.28 Verificacion, contraste y evaluacion de los objetivos 
+ []
+
+) [8]
+Overfull \vbox (442.01337pt too high) has occurred while \output is active []
+
+
+[9] (main.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Introduccion.aux) (Contextualizacion.aux)) ) 
+Here is how much of TeX's memory you used:
+ 3813 strings out of 494864
+ 55535 string characters out of 3176256
+ 138926 words of memory out of 3000000
+ 7378 multiletter control sequences out of 15000+200000
+ 10718 words of font info for 40 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 41i,6n,31p,1789b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
+</Users/diegozaraza/Library/Appli
+cation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</Users/diegozaraza/Library/Application Support/MiKTeX/texmfs/install/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb></Users/diegozaraza/Library/Application Suppor
+t/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/diegoz
+araza/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
+onts/cm/cmr12.pfb></Users/diegozaraza/Library/Application Support/MiKTeX/texmfs
+/install/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on main.pdf (15 pages, 1080370 bytes).
+PDF statistics:
+ 76 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

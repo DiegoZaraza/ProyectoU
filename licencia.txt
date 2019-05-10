@@ -1,0 +1,60 @@
+Copyright (c) 2011, Luis Felipe Abad Guzmán & Juan Pablo García Hernández
+All rights reserved.
+
+    * Redistributions of source code must retain the above copyright notice,
+      this list of conditions and the following disclaimer.
+
+    * Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimer in the documentation
+      and/or other materials provided with the distribution.
+
+    * Neither the name of Luis Felipe Abad Guzmán and Juan Pablo García
+      Hernández nor the names of its contributors may be used to endorse or
+      promote products derived from this software without specific prior
+      written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+----
+
+El contenido traducido de esta licencia existe solo para fines informativos
+y no debe considerarse un texto legal.
+
+Copyright (c) 2011, Luis Felipe Abad Guzmán & Juan Pablo García Hernández
+Todos los derechos reservados.
+
+    * Las redistribuciones del código fuente deben incluir la anterior nota de
+      copyright, ésta lista de condiciones y la siguiente renuncia de
+      responsabilidad.
+
+    * Las redistribuciones en forma binaria deben reproducir la anterior nota de
+      copyright, esta lista de condiciones y la siguiente renuncia de
+      responsabilidad en la documentación y/o otros materiales provistos con la
+      distribución.
+
+    * Ni los nombres de Luis Felipe Abad Guzmán y Juan Pablo García Hernández ni
+      los nombres de sus colaboradores pueden ser usados para aprobar o promover
+      productos derivados de este software sin un permiso escrito específico
+      previo.
+
+ESTE SOFTWARE ES PROPORCIONADO POR LOS TITULARES DE DERECHOS DE AUTOR Y SUS
+COLABORADORES "TAL CUAL ES" Y TODAS LAS GARANTÍAS EXPRESAS O IMPLÍCITAS,
+INCLUYENDO, PERO NO LIMITÁNDOSE A, LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN
+E IDONEIDAD PARA UN PROPÓSITO PARTICULAR SON DENEGADAS. EN NINGÚN CASO LOS
+TITULARES DE DERECHOS DE AUTOR O SUS COLABORADORES PODRÁN SER RESPONSABLES POR
+CUALQUIER DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR, O RESULTANTES
+(INCLUYENDO, PERO NO LIMITÁNDOSE A, PROCURACIÓN DE BIENES O SERVICIOS SUSTITUTOS;
+PÉRDIDA DE FUNCIONALIDAD, DATOS, O BENEFICIOS; O INTERRUPCIÓN DE NEGOCIOS) SIN
+IMPORTAR SU CAUSA Y BAJO ALGUNA TEORÍA DE RESPONSABILIDAD, YA SEA POR CONTRATO,
+RESPONSABILIDAD LIMITADA, O AGRAVIOS (INCLUYENDO NEGLIGENCIA O CUALQUIER OTRO)
+RESULTANTE DE CUALQUIER MODO DE USO DE ESTE SOFTWARE, INCLUSO SI SE LE ADVIRTIÓ
+DE LA POSIBILIDAD DE DICHO DAÑO.
