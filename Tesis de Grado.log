@@ -1,0 +1,579 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  20 SEP 2019 16:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Tesis de Grado.tex"
+(./Tesis de Grado.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/05/04 3.31 The Babel package
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count90
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count91
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count92
+\Gm@cntv=\count93
+\c@Gm@tempcnt=\count94
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks18
+)
+(./Tesis de Grado.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (./Introduccion/Introduccion.aux)
+(./Contextualizacion/Contextualizacion.aux) (./Desarrollo/Desarrollo.aux
+
+LaTeX Warning: Label `metamodelo6' multiply defined.
+
+) (./Cierre/Cierre.aux))
+\openout1 = `"Tesis de Grado.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen114
+\scratchbox=\box27
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen115
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 443.57848pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=624.25346pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-18.78552pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<Imagenes/Figuras/00.png, id=1, 56.6115pt x 90.3375pt>
+File: Imagenes/Figuras/00.png Graphic file (type png)
+<use Imagenes/Figuras/00.png>
+Package pdftex.def Info: Imagenes/Figuras/00.png  used on input line 14.
+(pdftex.def)             Requested size: 113.81102pt x 181.61876pt.
+[1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Image
+nes/Figuras/00.png>] [2]
+\openout2 = `Introduccion/Introduccion.aux'.
+
+ (./Introduccion/Introduccion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 5--40
+
+ []
+
+[3
+
+] (./Tesis de Grado.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+ [4
+
+
+])
+\tf@toc=\write3
+\openout3 = `"Tesis de Grado.toc"'.
+
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+ [5] (./Tesis de Grado.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 3.
+
+
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 4.
+
+
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 5.
+
+
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 6.
+
+
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 7.
+
+
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 9.
+
+
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 11.
+
+)
+\tf@lof=\write4
+\openout4 = `"Tesis de Grado.lof"'.
+
+ [6
+
+] [7
+
+]
+\openout2 = `Contextualizacion/Contextualizacion.aux'.
+
+ (./Contextualizacion/Contextualizacion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+[8
+
+] [9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+[11]
+<Imagenes/Figuras/01.png, id=46, 1606.0pt x 992.70876pt>
+File: Imagenes/Figuras/01.png Graphic file (type png)
+<use Imagenes/Figuras/01.png>
+Package pdftex.def Info: Imagenes/Figuras/01.png  used on input line 46.
+(pdftex.def)             Requested size: 284.52756pt x 175.86243pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--55
+
+ []
+
+[12 <./Imagenes/Figuras/01.png>] [13] [14] [15] [16] [17]) [18] [19
+
+
+]
+\openout2 = `Desarrollo/Desarrollo.aux'.
+
+
+(./Desarrollo/Desarrollo.tex
+
+LaTeX Warning: Citation `ref9' on page 20 undefined on input line 4.
+
+
+LaTeX Warning: Citation `ref9' on page 20 undefined on input line 18.
+
+<Imagenes/Figuras/14.png, id=75, 1463.4675pt x 402.50375pt>
+File: Imagenes/Figuras/14.png Graphic file (type png)
+<use Imagenes/Figuras/14.png>
+Package pdftex.def Info: Imagenes/Figuras/14.png  used on input line 23.
+(pdftex.def)             Requested size: 292.68831pt x 80.49931pt.
+
+LaTeX Warning: Citation `ref9' on page 20 undefined on input line 24.
+
+
+LaTeX Warning: Citation `ref9' on page 20 undefined on input line 24.
+
+
+LaTeX Warning: Citation `ref9' on page 20 undefined on input line 28.
+
+<Imagenes/Metamodelos/01.png, id=76, 317.68687pt x 120.45pt>
+File: Imagenes/Metamodelos/01.png Graphic file (type png)
+<use Imagenes/Metamodelos/01.png>
+Package pdftex.def Info: Imagenes/Metamodelos/01.png  used on input line 31.
+(pdftex.def)             Requested size: 317.68608pt x 120.44969pt.
+
+LaTeX Warning: Citation `ref9' on page 20 undefined on input line 32.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `ref9' on page 20 undefined on input line 37.
+
+[20
+
+ <./Imagenes/Figuras/14.png>]
+Underfull \hbox (badness 1983) in paragraph at lines 48--48
+[]\OT1/cmr/bx/n/12 Nivel \OT1/cmr/m/n/12 de Abs-trac-
+ []
+
+
+LaTeX Warning: Citation `ref9' on page 21 undefined on input line 52.
+
+<Imagenes/Figuras/15.png, id=81, 1467.4825pt x 437.635pt>
+File: Imagenes/Figuras/15.png Graphic file (type png)
+<use Imagenes/Figuras/15.png>
+Package pdftex.def Info: Imagenes/Figuras/15.png  used on input line 58.
+(pdftex.def)             Requested size: 293.4913pt x 87.52544pt.
+
+LaTeX Warning: Citation `ref9' on page 21 undefined on input line 59.
+
+
+LaTeX Warning: Citation `ref9' on page 21 undefined on input line 59.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[21 <./Imagenes/Metamodelos/01.png> <./Imagenes/Figuras/15.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+LaTeX Warning: Citation `ref9' on page 22 undefined on input line 67.
+
+<Imagenes/Metamodelos/02.png, id=87, 345.54094pt x 211.54031pt>
+File: Imagenes/Metamodelos/02.png Graphic file (type png)
+<use Imagenes/Metamodelos/02.png>
+Package pdftex.def Info: Imagenes/Metamodelos/02.png  used on input line 71.
+(pdftex.def)             Requested size: 345.54008pt x 211.53978pt.
+
+LaTeX Warning: Citation `ref9' on page 22 undefined on input line 72.
+
+
+LaTeX Warning: Citation `ref9' on page 22 undefined on input line 77.
+
+[22 <./Imagenes/Metamodelos/02.png>]
+<Imagenes/Figuras/16.png, id=92, 1468.48625pt x 402.50375pt>
+File: Imagenes/Figuras/16.png Graphic file (type png)
+<use Imagenes/Figuras/16.png>
+Package pdftex.def Info: Imagenes/Figuras/16.png  used on input line 98.
+(pdftex.def)             Requested size: 293.69205pt x 80.49931pt.
+
+
+LaTeX Warning: Citation `ref9' on page 23 undefined on input line 99.
+
+
+LaTeX Warning: Citation `ref9' on page 23 undefined on input line 99.
+
+
+LaTeX Warning: Citation `ref9' on page 23 undefined on input line 104.
+
+<Imagenes/Metamodelos/03.png, id=93, 277.035pt x 80.55093pt>
+File: Imagenes/Metamodelos/03.png Graphic file (type png)
+<use Imagenes/Metamodelos/03.png>
+Package pdftex.def Info: Imagenes/Metamodelos/03.png  used on input line 108.
+(pdftex.def)             Requested size: 277.03432pt x 80.55074pt.
+
+LaTeX Warning: Citation `ref9' on page 23 undefined on input line 114.
+
+[23 <./Imagenes/Figuras/16.png> <./Imagenes/Metamodelos/03.png>]
+
+LaTeX Warning: Citation `ref9' on page 24 undefined on input line 129.
+
+<Imagenes/Figuras/17.png, id=99, 1466.47874pt x 404.51125pt>
+File: Imagenes/Figuras/17.png Graphic file (type png)
+<use Imagenes/Figuras/17.png>
+Package pdftex.def Info: Imagenes/Figuras/17.png  used on input line 135.
+(pdftex.def)             Requested size: 293.29056pt x 80.9008pt.
+
+LaTeX Warning: Citation `ref9' on page 24 undefined on input line 136.
+
+
+LaTeX Warning: Citation `ref9' on page 24 undefined on input line 136.
+
+
+LaTeX Warning: Citation `ref9' on page 24 undefined on input line 144.
+
+[24 <./Imagenes/Figuras/17.png>]
+<Imagenes/Metamodelos/04.png, id=104, 412.54124pt x 278.54062pt>
+File: Imagenes/Metamodelos/04.png Graphic file (type png)
+<use Imagenes/Metamodelos/04.png>
+Package pdftex.def Info: Imagenes/Metamodelos/04.png  used on input line 148.
+(pdftex.def)             Requested size: 412.54024pt x 278.53993pt.
+
+
+LaTeX Warning: Citation `ref9' on page 25 undefined on input line 155.
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 166--167
+[]\OT1/cmr/bx/n/12 Nivel \OT1/cmr/m/n/12 de Abs-trac-
+ []
+
+
+LaTeX Warning: Citation `ref9' on page 25 undefined on input line 170.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/Figuras/18.png, id=105, 1568.86125pt x 429.605pt>
+File: Imagenes/Figuras/18.png Graphic file (type png)
+<use Imagenes/Figuras/18.png>
+Package pdftex.def Info: Imagenes/Figuras/18.png  used on input line 176.
+(pdftex.def)             Requested size: 313.7667pt x 85.91946pt.
+
+LaTeX Warning: Citation `ref9' on page 25 undefined on input line 177.
+
+
+LaTeX Warning: Citation `ref9' on page 25 undefined on input line 177.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `ref9' on page 25 undefined on input line 182.
+
+<Imagenes/Metamodelos/05.png, id=106, 412.54124pt x 278.54062pt>
+File: Imagenes/Metamodelos/05.png Graphic file (type png)
+<use Imagenes/Metamodelos/05.png>
+Package pdftex.def Info: Imagenes/Metamodelos/05.png  used on input line 186.
+(pdftex.def)             Requested size: 412.54024pt x 278.53993pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `ref9' on page 25 undefined on input line 192.
+
+[25 <./Imagenes/Metamodelos/04.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/Figuras/19.png, id=112, 1570.86874pt x 465.74pt>
+File: Imagenes/Figuras/19.png Graphic file (type png)
+<use Imagenes/Figuras/19.png>
+Package pdftex.def Info: Imagenes/Figuras/19.png  used on input line 213.
+(pdftex.def)             Requested size: 314.16818pt x 93.14635pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `ref9' on page 26 undefined on input line 219.
+
+<Imagenes/Metamodelos/06.png, id=113, 394.47375pt x 294.34969pt>
+File: Imagenes/Metamodelos/06.png Graphic file (type png)
+<use Imagenes/Metamodelos/06.png>
+Package pdftex.def Info: Imagenes/Metamodelos/06.png  used on input line 223.
+(pdftex.def)             Requested size: 394.47278pt x 294.34895pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [26 <./Imagenes/Figuras/18.png>]
+Overfull \vbox (1213.28651pt too high) has occurred while \output is active []
+
+
+[27 <./Imagenes/Metamodelos/05.png>] [28 <./Imagenes/Figuras/19.png>] [29 <./Im
+agenes/Metamodelos/06.png>] [30
+
+
+]
+\openout2 = `Cierre/Cierre.aux'.
+
+ (./Cierre/Cierre.tex) [31
+
+]
+(./Tesis de Grado.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (./Introduccion/Introduccion.aux)
+(./Contextualizacion/Contextualizacion.aux) (./Desarrollo/Desarrollo.aux)
+(./Cierre/Cierre.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3050 strings out of 492616
+ 44149 string characters out of 6129482
+ 142989 words of memory out of 5000000
+ 6892 multiletter control sequences out of 15000+600000
+ 9460 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,11n,31p,1818b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on "Tesis de Grado.pdf" (31 pages, 506978 bytes).
+PDF statistics:
+ 161 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

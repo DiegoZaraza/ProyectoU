@@ -1,0 +1,117 @@
+\babel@toc {spanish}{}
+\contentsline {part}{I\hspace {1em}Contextualizaci\IeC {\'o}n de la Investigaci\IeC {\'o}n}{7}% 
+\contentsline {section}{\numberline {0.1}Planteamiento del problema}{8}% 
+\contentsline {subsection}{\numberline {0.1.1}Formulaci\IeC {\'o}n del problema}{8}% 
+\contentsline {subsection}{\numberline {0.1.2}Sistematizaci\IeC {\'o}n del problema}{8}% 
+\contentsline {section}{\numberline {0.2}Objetivos de la investigaci\IeC {\'o}n}{10}% 
+\contentsline {subsection}{\numberline {0.2.1}Objetivo General}{10}% 
+\contentsline {subsection}{\numberline {0.2.2}Objetivos Espec\IeC {\'\i }ficos}{10}% 
+\contentsline {section}{\numberline {0.3}Justificaci\IeC {\'o}n de la investigaci\IeC {\'o}n}{11}% 
+\contentsline {subsection}{\numberline {0.3.1}Justificaci\IeC {\'o}n te\IeC {\'o}rica}{11}% 
+\contentsline {section}{\numberline {0.4}Hip\IeC {\'o}tesis de trabajo}{11}% 
+\contentsline {section}{\numberline {0.5}Marco referencial}{11}% 
+\contentsline {subsection}{\numberline {0.5.1}Marco Te\IeC {\'o}rico}{11}% 
+\contentsline {subsubsection}{Teor\IeC {\'\i }a de Integraci\IeC {\'o}n Sensorial:}{11}% 
+\contentsline {subsection}{\numberline {0.5.2}Marco Conceptual}{14}% 
+\contentsline {subsection}{\numberline {0.5.3}Marco Espacial}{16}% 
+\contentsline {subsection}{\numberline {0.5.4}Marco Legal}{16}% 
+\contentsline {section}{\numberline {0.6}Metodolog\IeC {\'\i }a de la investigaci\IeC {\'o}n}{17}% 
+\contentsline {subsection}{\numberline {0.6.1}Tipo de estudio}{17}% 
+\contentsline {subsection}{\numberline {0.6.2}M\IeC {\'e}todo de investigaci\IeC {\'o}n}{17}% 
+\contentsline {subsection}{\numberline {0.6.3}Fuentes y t\IeC {\'e}cnicas para la recolecci\IeC {\'o}n de la informaci\IeC {\'o}n}{17}% 
+\contentsline {subsection}{\numberline {0.6.4}Tratamiento de la informaci\IeC {\'o}n}{17}% 
+\contentsline {section}{\numberline {0.7}Estudio de sistemas previos}{18}% 
+\contentsline {part}{II\hspace {1em}Desarrollo de la Investigaci\IeC {\'o}n}{19}% 
+\contentsline {section}{\numberline {0.8}Ejecuci\IeC {\'o}n del proyecto}{20}% 
+\contentsline {section}{\numberline {0.9}Dise\IeC {\~n}o de Arquitectura de Negocio}{20}% 
+\contentsline {subsection}{\numberline {0.9.1}Punto de Vista Organizaci\IeC {\'o}nal}{20}% 
+\contentsline {subsubsection}{Metamodelo P.V. Organizaci\IeC {\'o}nal}{20}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. Organizaci\IeC {\'o}nal}{21}% 
+\contentsline {subsection}{\numberline {0.9.2}Punto de Vista de Cooperaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo P.V. Cooperaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. Cooperaci\IeC {\'o}n}{21}% 
+\contentsline {subsection}{\numberline {0.9.3}Punto de Vista de funcion de negocio}{21}% 
+\contentsline {subsubsection}{Metamodelo P.V. Funcion de negocio}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. Funci\IeC {\'o}n de negocio}{21}% 
+\contentsline {subsection}{\numberline {0.9.4}Punto de Vista de proceso de negocio}{21}% 
+\contentsline {subsubsection}{Metamodelo P.V. Proceso de negocio}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. Proceso de Negocio}{21}% 
+\contentsline {subsection}{\numberline {0.9.5}Punto de Vista de Cooperaci\IeC {\'o}n de Proceso de Negocio}{21}% 
+\contentsline {subsubsection}{Metamodelo P.V. Cooperaci\IeC {\'o}n de Proceso de Negocio}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Cooperaci\IeC {\'o}n de Proceso de Negocio}{21}% 
+\contentsline {subsection}{\numberline {0.9.6}Punto de Vista de Producto}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de producto}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de P.V. de Producto}{21}% 
+\contentsline {section}{\numberline {0.10}Dise\IeC {\~n}o de Arquitectura de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsection}{\numberline {0.10.1}Punto de Vista Comportamiento de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Comportamiento de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Comportamiento de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsection}{\numberline {0.10.2}Punto de Vista Cooperaci\IeC {\'o}n de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Cooperaci\IeC {\'o}n de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Cooperaci\IeC {\'o}n de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsection}{\numberline {0.10.3}Punto de Vista Estructura de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Estructura de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Cooperaci\IeC {\'o}n de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsection}{\numberline {0.10.4}Punto de Vista Uso de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Uso de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Cooperaci\IeC {\'o}n de Aplicaci\IeC {\'o}n}{21}% 
+\contentsline {section}{\numberline {0.11}Dise\IeC {\~n}o de Arquitectura de Infraestructura y Datos \IeC {\textasciitilde }}{21}% 
+\contentsline {subsection}{\numberline {0.11.1}Punto de Vista de Infraestructura}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Infraestructura}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Infraestructura}{21}% 
+\contentsline {subsection}{\numberline {0.11.2}Punto de Vista de Uso de Infraestructura}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Uso de Infraestructura}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Uso de Infraestructura}{21}% 
+\contentsline {subsection}{\numberline {0.11.3}Punto de Vista Organizaci\IeC {\'o}n e implementaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Organizaci\IeC {\'o}n e implementaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Organizaci\IeC {\'o}n e implementaci\IeC {\'o}n}{21}% 
+\contentsline {subsection}{\numberline {0.11.4}Punto de Vista Estructura de Informaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Estructura de Informaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Estructura de Informaci\IeC {\'o}n}{21}% 
+\contentsline {subsection}{\numberline {0.11.5}Punto de Vista de Realizaci\IeC {\'o}n del Servicio}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Realizaci\IeC {\'o}n del Servicio}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Realizaci\IeC {\'o}n del Servicio}{21}% 
+\contentsline {subsection}{\numberline {0.11.6}Punto de Vista de Capas}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Capas}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Capas}{21}% 
+\contentsline {section}{\numberline {0.12}Dise\IeC {\~n}o de Arquitectura Motivacional}{21}% 
+\contentsline {subsection}{\numberline {0.12.1}Punto de Vista de Stakeholder}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Stakeholder}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de P.V. de Stakeholder}{21}% 
+\contentsline {subsection}{\numberline {0.12.2}Punto de Vista de Realizaci\IeC {\'o}n de Objetivos}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Realizaci\IeC {\'o}n de Objetivos}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de P.V. de Realizaci\IeC {\'o}n de Objetivos}{21}% 
+\contentsline {subsection}{\numberline {0.12.3}Punto de Vista de Contribuci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Contribuci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Contribuci\IeC {\'o}n}{21}% 
+\contentsline {subsection}{\numberline {0.12.4}Punto de Vista de Principios}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Principios}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Principios}{21}% 
+\contentsline {subsection}{\numberline {0.12.5}Punto de Vista de Realizaci\IeC {\'o}n de Requerimientos}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Realizaci\IeC {\'o}n de Requerimientos}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Realizaci\IeC {\'o}n de Requerimientos}{21}% 
+\contentsline {subsection}{\numberline {0.12.6}Punto de Vista de Motivaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Motivaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n P.V. de Motivaci\IeC {\'o}n}{21}% 
+\contentsline {section}{\numberline {0.13}Dise\IeC {\~n}o de Arquitectura de Proyecto}{21}% 
+\contentsline {subsection}{\numberline {0.13.1}Punto de Vista de Proyecto}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Proyecto}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de P.V. de Proyecto}{21}% 
+\contentsline {section}{\numberline {0.14}Dise\IeC {\~n}o de Arquitectura de Migraci\IeC {\'o}n}{21}% 
+\contentsline {subsection}{\numberline {0.14.1}Punto de Vista de Migraci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Migraci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de P.V. de Migraci\IeC {\'o}n}{21}% 
+\contentsline {subsection}{\numberline {0.14.2}Punto de Vista de Migraci\IeC {\'o}n e Implementaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Metamodelo de P.V. de Migraci\IeC {\'o}n e Implementaci\IeC {\'o}n}{21}% 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de P.V. de Migraci\IeC {\'o}n e Implementaci\IeC {\'o}n}{21}% 
+\contentsline {part}{III\hspace {1em}Cierre de la Investigaci\IeC {\'o}n}{22}% 
+\contentsline {section}{\numberline {0.15}Resultados y Discusi\IeC {\'o}n}{23}% 
+\contentsline {subsection}{\numberline {0.15.1}Resultados}{23}% 
+\contentsline {section}{\numberline {0.16}Conclusiones}{23}% 
+\contentsline {subsection}{\numberline {0.16.1}Verificaci\IeC {\'o}n, contraste y evaluaci\IeC {\'o}n de los objetivos}{23}% 
+\contentsline {subsection}{\numberline {0.16.2}S\IeC {\'\i }ntesis del modelo propuesto}{23}% 
+\contentsline {subsection}{\numberline {0.16.3}Aportes Originales}{23}% 
+\contentsline {subsection}{\numberline {0.16.4}Trabajos o publicaciones derivadas}{23}% 
+\contentsline {section}{\numberline {0.17}Prospectiva del trabajo de grado}{23}% 
+\contentsline {subsection}{\numberline {0.17.1}L\IeC {\'\i }neas de investigaci\IeC {\'o}n futuras}{23}% 
+\contentsline {subsection}{\numberline {0.17.2}Trabajos de Investigaci\IeC {\'o}n futuros}{23}% 
