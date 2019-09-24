@@ -1,4 +1,4 @@
-PWD /Users/diego.zaraza/Documents/GitHub/Tesis
+PWD /Users/diego.zaraza/Documents/GitHub/ProyectoU
 INPUT /usr/local/texlive/2019/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -92,6 +92,7 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT Tesis de Grado.toc
 INPUT Tesis de Grado.toc
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -104,7 +105,6 @@ OUTPUT Tesis de Grado.toc
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
 INPUT Tesis de Grado.lof
 INPUT Tesis de Grado.lof
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT Tesis de Grado.lof
 OUTPUT Contextualizacion/Contextualizacion.aux
 INPUT Contextualizacion/Contextualizacion.tex

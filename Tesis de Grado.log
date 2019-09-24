@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  20 SEP 2019 16:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.23)  24 SEP 2019 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -29,16 +29,16 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@posthook=\toks15
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2019/05/04 3.31 The Babel package
+Package: babel 2019/07/19 3.33 The Babel package
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2019/05/04 3.31 Babel switching mechanism
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2019/05/04 3.31 Babel common definitions
+File: babel.def 2019/07/19 3.33 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
 
@@ -170,7 +170,7 @@ Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -249,11 +249,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--40
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
+(Font)              <12> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
+(Font)              <8> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
+(Font)              <6> on input line 4.
  [4
 
 
@@ -268,12 +268,6 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
 
-LaTeX Warning: Citation `ref9' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation `ref9' on page 6 undefined on input line 4.
-
-
 LaTeX Warning: Citation `ref9' on page 6 undefined on input line 5.
 
 
@@ -283,10 +277,22 @@ LaTeX Warning: Citation `ref9' on page 6 undefined on input line 6.
 LaTeX Warning: Citation `ref9' on page 6 undefined on input line 7.
 
 
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 8.
+
+
 LaTeX Warning: Citation `ref9' on page 6 undefined on input line 9.
 
 
 LaTeX Warning: Citation `ref9' on page 6 undefined on input line 11.
+
+
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 13.
+
+
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 17.
+
+
+LaTeX Warning: Citation `ref9' on page 6 undefined on input line 18.
 
 )
 \tf@lof=\write4
@@ -300,34 +306,54 @@ LaTeX Warning: Citation `ref9' on page 6 undefined on input line 11.
 \openout2 = `Contextualizacion/Contextualizacion.aux'.
 
  (./Contextualizacion/Contextualizacion.tex
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
+Cap\'{\i }tulo 1.
 [8
 
-] [9] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+]
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+ [9]
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
-[11]
-<Imagenes/Figuras/01.png, id=46, 1606.0pt x 992.70876pt>
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+[10]
+<Imagenes/Figuras/01.png, id=43, 1606.0pt x 992.70876pt>
 File: Imagenes/Figuras/01.png Graphic file (type png)
 <use Imagenes/Figuras/01.png>
-Package pdftex.def Info: Imagenes/Figuras/01.png  used on input line 46.
+Package pdftex.def Info: Imagenes/Figuras/01.png  used on input line 38.
 (pdftex.def)             Requested size: 284.52756pt x 175.86243pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--55
+Underfull \hbox (badness 10000) in paragraph at lines 34--47
 
  []
 
-[12 <./Imagenes/Figuras/01.png>] [13] [14] [15] [16] [17]) [18] [19
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+[11 <./Imagenes/Figuras/01.png>]
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+ [12]
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+ [13]
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+ [14])
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+ [15]
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+ [16] [17
 
 
 ]
@@ -335,205 +361,249 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--55
 
 
 (./Desarrollo/Desarrollo.tex
+Cap\'{\i }tulo 2.
 
-LaTeX Warning: Citation `ref9' on page 20 undefined on input line 4.
+LaTeX Warning: Citation `ref9' on page 18 undefined on input line 4.
 
 
-LaTeX Warning: Citation `ref9' on page 20 undefined on input line 18.
+LaTeX Warning: Citation `ref9' on page 18 undefined on input line 18.
 
-<Imagenes/Figuras/14.png, id=75, 1463.4675pt x 402.50375pt>
+<Imagenes/Figuras/14.png, id=68, 1463.4675pt x 402.50375pt>
 File: Imagenes/Figuras/14.png Graphic file (type png)
 <use Imagenes/Figuras/14.png>
 Package pdftex.def Info: Imagenes/Figuras/14.png  used on input line 23.
 (pdftex.def)             Requested size: 292.68831pt x 80.49931pt.
 
-LaTeX Warning: Citation `ref9' on page 20 undefined on input line 24.
+LaTeX Warning: Citation `ref9' on page 18 undefined on input line 24.
 
 
-LaTeX Warning: Citation `ref9' on page 20 undefined on input line 24.
+LaTeX Warning: Citation `ref9' on page 18 undefined on input line 24.
 
 
-LaTeX Warning: Citation `ref9' on page 20 undefined on input line 28.
+LaTeX Warning: Citation `ref9' on page 18 undefined on input line 28.
 
-<Imagenes/Metamodelos/01.png, id=76, 317.68687pt x 120.45pt>
+<Imagenes/Metamodelos/01.png, id=69, 317.68687pt x 120.45pt>
 File: Imagenes/Metamodelos/01.png Graphic file (type png)
 <use Imagenes/Metamodelos/01.png>
 Package pdftex.def Info: Imagenes/Metamodelos/01.png  used on input line 31.
 (pdftex.def)             Requested size: 317.68608pt x 120.44969pt.
 
-LaTeX Warning: Citation `ref9' on page 20 undefined on input line 32.
+LaTeX Warning: Citation `ref9' on page 18 undefined on input line 32.
 
+[18
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Citation `ref9' on page 20 undefined on input line 37.
-
-[20
 
  <./Imagenes/Figuras/14.png>]
-Underfull \hbox (badness 1983) in paragraph at lines 48--48
+
+LaTeX Warning: Citation `ref9' on page 19 undefined on input line 37.
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 47--47
 []\OT1/cmr/bx/n/12 Nivel \OT1/cmr/m/n/12 de Abs-trac-
  []
 
 
-LaTeX Warning: Citation `ref9' on page 21 undefined on input line 52.
+LaTeX Warning: Citation `ref9' on page 19 undefined on input line 51.
 
-<Imagenes/Figuras/15.png, id=81, 1467.4825pt x 437.635pt>
+<Imagenes/Figuras/15.png, id=74, 1467.4825pt x 437.635pt>
 File: Imagenes/Figuras/15.png Graphic file (type png)
 <use Imagenes/Figuras/15.png>
-Package pdftex.def Info: Imagenes/Figuras/15.png  used on input line 58.
+Package pdftex.def Info: Imagenes/Figuras/15.png  used on input line 56.
 (pdftex.def)             Requested size: 293.4913pt x 87.52544pt.
 
-LaTeX Warning: Citation `ref9' on page 21 undefined on input line 59.
+LaTeX Warning: Citation `ref9' on page 19 undefined on input line 57.
 
 
-LaTeX Warning: Citation `ref9' on page 21 undefined on input line 59.
+LaTeX Warning: Citation `ref9' on page 19 undefined on input line 57.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
-
- []
-
-[21 <./Imagenes/Metamodelos/01.png> <./Imagenes/Figuras/15.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
-
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation `ref9' on page 22 undefined on input line 67.
+LaTeX Warning: Citation `ref9' on page 19 undefined on input line 63.
 
-<Imagenes/Metamodelos/02.png, id=87, 345.54094pt x 211.54031pt>
+<Imagenes/Metamodelos/02.png, id=75, 345.54094pt x 211.54031pt>
 File: Imagenes/Metamodelos/02.png Graphic file (type png)
 <use Imagenes/Metamodelos/02.png>
-Package pdftex.def Info: Imagenes/Metamodelos/02.png  used on input line 71.
+Package pdftex.def Info: Imagenes/Metamodelos/02.png  used on input line 66.
 (pdftex.def)             Requested size: 345.54008pt x 211.53978pt.
 
-LaTeX Warning: Citation `ref9' on page 22 undefined on input line 72.
+LaTeX Warning: Citation `ref9' on page 19 undefined on input line 67.
 
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+[19 <./Imagenes/Metamodelos/01.png>]
 
-LaTeX Warning: Citation `ref9' on page 22 undefined on input line 77.
+LaTeX Warning: Citation `ref9' on page 20 undefined on input line 72.
 
-[22 <./Imagenes/Metamodelos/02.png>]
-<Imagenes/Figuras/16.png, id=92, 1468.48625pt x 402.50375pt>
+<Imagenes/Figuras/16.png, id=81, 1468.48625pt x 402.50375pt>
 File: Imagenes/Figuras/16.png Graphic file (type png)
 <use Imagenes/Figuras/16.png>
-Package pdftex.def Info: Imagenes/Figuras/16.png  used on input line 98.
+Package pdftex.def Info: Imagenes/Figuras/16.png  used on input line 91.
 (pdftex.def)             Requested size: 293.69205pt x 80.49931pt.
 
-
-LaTeX Warning: Citation `ref9' on page 23 undefined on input line 99.
-
-
-LaTeX Warning: Citation `ref9' on page 23 undefined on input line 99.
+LaTeX Warning: Citation `ref9' on page 20 undefined on input line 92.
 
 
-LaTeX Warning: Citation `ref9' on page 23 undefined on input line 104.
+LaTeX Warning: Citation `ref9' on page 20 undefined on input line 92.
 
-<Imagenes/Metamodelos/03.png, id=93, 277.035pt x 80.55093pt>
+LaTeX Info: Redefining \. on input line 95.
+LaTeX Info: Redefining \% on input line 95.
+[20 <./Imagenes/Figuras/15.png> <./Imagenes/Metamodelos/02.png>]
+
+LaTeX Warning: Citation `ref9' on page 21 undefined on input line 96.
+
+<Imagenes/Metamodelos/03.png, id=87, 277.035pt x 80.55093pt>
 File: Imagenes/Metamodelos/03.png Graphic file (type png)
 <use Imagenes/Metamodelos/03.png>
-Package pdftex.def Info: Imagenes/Metamodelos/03.png  used on input line 108.
+Package pdftex.def Info: Imagenes/Metamodelos/03.png  used on input line 99.
 (pdftex.def)             Requested size: 277.03432pt x 80.55074pt.
 
-LaTeX Warning: Citation `ref9' on page 23 undefined on input line 114.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23 <./Imagenes/Figuras/16.png> <./Imagenes/Metamodelos/03.png>]
 
-LaTeX Warning: Citation `ref9' on page 24 undefined on input line 129.
+LaTeX Warning: Citation `ref9' on page 21 undefined on input line 105.
 
-<Imagenes/Figuras/17.png, id=99, 1466.47874pt x 404.51125pt>
+
+LaTeX Warning: Citation `ref9' on page 21 undefined on input line 119.
+
+<Imagenes/Figuras/17.png, id=88, 1466.47874pt x 404.51125pt>
 File: Imagenes/Figuras/17.png Graphic file (type png)
 <use Imagenes/Figuras/17.png>
-Package pdftex.def Info: Imagenes/Figuras/17.png  used on input line 135.
+Package pdftex.def Info: Imagenes/Figuras/17.png  used on input line 124.
 (pdftex.def)             Requested size: 293.29056pt x 80.9008pt.
 
-LaTeX Warning: Citation `ref9' on page 24 undefined on input line 136.
+LaTeX Warning: Citation `ref9' on page 21 undefined on input line 125.
 
 
-LaTeX Warning: Citation `ref9' on page 24 undefined on input line 136.
+LaTeX Warning: Citation `ref9' on page 21 undefined on input line 125.
 
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
+[21 <./Imagenes/Figuras/16.png>]
 
-LaTeX Warning: Citation `ref9' on page 24 undefined on input line 144.
+LaTeX Warning: Citation `ref9' on page 22 undefined on input line 131.
 
-[24 <./Imagenes/Figuras/17.png>]
-<Imagenes/Metamodelos/04.png, id=104, 412.54124pt x 278.54062pt>
+<Imagenes/Metamodelos/04.png, id=93, 412.54124pt x 278.54062pt>
 File: Imagenes/Metamodelos/04.png Graphic file (type png)
 <use Imagenes/Metamodelos/04.png>
-Package pdftex.def Info: Imagenes/Metamodelos/04.png  used on input line 148.
+Package pdftex.def Info: Imagenes/Metamodelos/04.png  used on input line 134.
 (pdftex.def)             Requested size: 412.54024pt x 278.53993pt.
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
+[22 <./Imagenes/Metamodelos/03.png> <./Imagenes/Figuras/17.png>]
+
+LaTeX Warning: Citation `ref9' on page 23 undefined on input line 141.
 
 
-LaTeX Warning: Citation `ref9' on page 25 undefined on input line 155.
-
-
-Underfull \hbox (badness 1983) in paragraph at lines 166--167
+Underfull \hbox (badness 1983) in paragraph at lines 151--152
 []\OT1/cmr/bx/n/12 Nivel \OT1/cmr/m/n/12 de Abs-trac-
  []
 
 
-LaTeX Warning: Citation `ref9' on page 25 undefined on input line 170.
+LaTeX Warning: Citation `ref9' on page 23 undefined on input line 155.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/Figuras/18.png, id=105, 1568.86125pt x 429.605pt>
+<Imagenes/Figuras/18.png, id=99, 1568.86125pt x 429.605pt>
 File: Imagenes/Figuras/18.png Graphic file (type png)
 <use Imagenes/Figuras/18.png>
-Package pdftex.def Info: Imagenes/Figuras/18.png  used on input line 176.
+Package pdftex.def Info: Imagenes/Figuras/18.png  used on input line 160.
 (pdftex.def)             Requested size: 313.7667pt x 85.91946pt.
 
-LaTeX Warning: Citation `ref9' on page 25 undefined on input line 177.
+LaTeX Warning: Citation `ref9' on page 23 undefined on input line 161.
 
 
-LaTeX Warning: Citation `ref9' on page 25 undefined on input line 177.
+LaTeX Warning: Citation `ref9' on page 23 undefined on input line 161.
 
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
+[23 <./Imagenes/Metamodelos/04.png>]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Citation `ref9' on page 24 undefined on input line 165.
 
-
-LaTeX Warning: Citation `ref9' on page 25 undefined on input line 182.
-
-<Imagenes/Metamodelos/05.png, id=106, 412.54124pt x 278.54062pt>
+<Imagenes/Metamodelos/05.png, id=104, 412.54124pt x 278.54062pt>
 File: Imagenes/Metamodelos/05.png Graphic file (type png)
 <use Imagenes/Metamodelos/05.png>
-Package pdftex.def Info: Imagenes/Metamodelos/05.png  used on input line 186.
+Package pdftex.def Info: Imagenes/Metamodelos/05.png  used on input line 168.
 (pdftex.def)             Requested size: 412.54024pt x 278.53993pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation `ref9' on page 25 undefined on input line 192.
+LaTeX Warning: Citation `ref9' on page 24 undefined on input line 174.
 
-[25 <./Imagenes/Metamodelos/04.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/Figuras/19.png, id=112, 1570.86874pt x 465.74pt>
+<Imagenes/Figuras/19.png, id=105, 1570.86874pt x 465.74pt>
 File: Imagenes/Figuras/19.png Graphic file (type png)
 <use Imagenes/Figuras/19.png>
-Package pdftex.def Info: Imagenes/Figuras/19.png  used on input line 213.
+Package pdftex.def Info: Imagenes/Figuras/19.png  used on input line 193.
 (pdftex.def)             Requested size: 314.16818pt x 93.14635pt.
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
+[24 <./Imagenes/Figuras/18.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation `ref9' on page 26 undefined on input line 219.
+LaTeX Warning: Citation `ref9' on page 25 undefined on input line 198.
 
-<Imagenes/Metamodelos/06.png, id=113, 394.47375pt x 294.34969pt>
+<Imagenes/Metamodelos/06.png, id=110, 394.47375pt x 294.34969pt>
 File: Imagenes/Metamodelos/06.png Graphic file (type png)
 <use Imagenes/Metamodelos/06.png>
-Package pdftex.def Info: Imagenes/Metamodelos/06.png  used on input line 223.
+Package pdftex.def Info: Imagenes/Metamodelos/06.png  used on input line 201.
 (pdftex.def)             Requested size: 394.47278pt x 294.34895pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [26 <./Imagenes/Figuras/18.png>]
-Overfull \vbox (1213.28651pt too high) has occurred while \output is active []
+LaTeX Info: Redefining \. on input line 206.
+LaTeX Info: Redefining \% on input line 206.
+[25 <./Imagenes/Metamodelos/05.png> <./Imagenes/Figuras/19.png>]
+LaTeX Info: Redefining \. on input line 206.
+LaTeX Info: Redefining \% on input line 206.
+ [26]
+
+LaTeX Warning: Citation `ref9' on page 27 undefined on input line 209.
 
 
-[27 <./Imagenes/Metamodelos/05.png>] [28 <./Imagenes/Figuras/19.png>] [29 <./Im
-agenes/Metamodelos/06.png>] [30
+LaTeX Warning: Citation `ref9' on page 27 undefined on input line 224.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/Figuras/20.png, id=120, 1568.86125pt x 430.60875pt>
+File: Imagenes/Figuras/20.png Graphic file (type png)
+<use Imagenes/Figuras/20.png>
+Package pdftex.def Info: Imagenes/Figuras/20.png  used on input line 230.
+(pdftex.def)             Requested size: 313.7667pt x 86.12021pt.
+
+LaTeX Warning: Citation `ref9' on page 27 undefined on input line 231.
+
+
+LaTeX Warning: Citation `ref9' on page 27 undefined on input line 231.
+
+
+LaTeX Warning: Citation `ref9' on page 27 undefined on input line 236.
+
+LaTeX Info: Redefining \. on input line 237.
+LaTeX Info: Redefining \% on input line 237.
+[27 <./Imagenes/Metamodelos/06.png> <./Imagenes/Figuras/20.png>]
+<Imagenes/Metamodelos/07.png, id=126, 397.485pt x 209.28188pt>
+File: Imagenes/Metamodelos/07.png Graphic file (type png)
+<use Imagenes/Metamodelos/07.png>
+Package pdftex.def Info: Imagenes/Metamodelos/07.png  used on input line 240.
+(pdftex.def)             Requested size: 397.48402pt x 209.28134pt.
+
+
+LaTeX Warning: Citation `ref9' on page 28 undefined on input line 241.
+
+)
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [28 <./Imagenes/Metamodelos/07.png>]
+Overfull \vbox (761.64658pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+
+[29] [30
 
 
 ]
@@ -541,13 +611,12 @@ agenes/Metamodelos/06.png>] [30
 
  (./Cierre/Cierre.tex) [31
 
-]
-(./Tesis de Grado.aux
+] (./Tesis de Grado.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- (./Introduccion/Introduccion.aux)
-(./Contextualizacion/Contextualizacion.aux) (./Desarrollo/Desarrollo.aux)
-(./Cierre/Cierre.aux))
+
+(./Introduccion/Introduccion.aux) (./Contextualizacion/Contextualizacion.aux)
+(./Desarrollo/Desarrollo.aux) (./Cierre/Cierre.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -556,10 +625,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3050 strings out of 492616
- 44149 string characters out of 6129482
- 142989 words of memory out of 5000000
- 6892 multiletter control sequences out of 15000+600000
+ 3076 strings out of 492609
+ 44770 string characters out of 6129048
+ 143436 words of memory out of 5000000
+ 6918 multiletter control sequences out of 15000+600000
  9460 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,11n,31p,1818b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -570,10 +639,10 @@ usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
 al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "Tesis de Grado.pdf" (31 pages, 506978 bytes).
+Output written on "Tesis de Grado.pdf" (31 pages, 549036 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
+ 165 PDF objects out of 1000 (max. 8388607)
  92 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
